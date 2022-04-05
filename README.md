@@ -1,3 +1,4 @@
+技術力なんてものはない
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sushi-chaaaan)
 
 <!--
