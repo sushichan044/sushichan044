@@ -19,7 +19,7 @@ I'm Kentaro Suzuki! Colledge student at UEC, Web Developer.
 </picture>
 
 ## ⚙️ skills
-[![My Skills](https://skillicons.dev/icons?theme=light&perline=5&i=html,css,tailwind,js,ts,nextjs,react,astro,nodejs,vite,workers,cloudflare,py,docker,git,github,githubactions,discord,twitter,vscode)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?theme=light&perline=5&i=html,css,tailwind,js,ts,nextjs,react,astro,nodejs,vite,workers,cloudflare,py,docker,git,github,githubactions,discord,twitter,vscode)
 
 ## 🤔 info
 
