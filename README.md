@@ -21,21 +21,6 @@ I'm Kentaro Suzuki! Colledge student at UEC, Web Developer.
 ## ⚙️ skills
 ![My Skills](https://skillicons.dev/icons?theme=light&perline=5&i=html,css,tailwind,js,ts,nextjs,react,astro,nodejs,vite,workers,cloudflare,py,docker,git,github,githubactions,discord,twitter,vscode)
 
-## 🤔 info
-
-<picture>
-<source
-  srcset="https://github-readme-stats-two-xi-45.vercel.app/api/top-langs?username=sushi-chaaaan&theme=dark&hide=c,tex,jupyter%20notebook,python"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-two-xi-45.vercel.app/api/top-langs?username=sushi-chaaaan&hide=c,tex,jupyter%20notebook,python"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-two-xi-45.vercel.app/api/top-langs?username=sushi-chaaaan&hide=c,tex,jupyter%20notebook,python" />
-</picture>
-<!-- github-readme-stats -->
-
 ## 💻 Works
 
 [![Readme Card](https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=sushi-chaaaan&repo=sushichan.live)](https://github.com/sushi-chaaaan/sushichan.live)
