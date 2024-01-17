@@ -35,3 +35,13 @@ I'm Kentaro Suzuki! Colledge student at UEC, Web Developer.
 <img src="https://github-readme-stats-two-xi-45.vercel.app/api/top-langs?username=sushi-chaaaan&hide=c,tex,jupyter%20notebook,python" />
 </picture>
 <!-- github-readme-stats -->
+
+## 💻 Works
+
+[![Readme Card](https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=sushi-chaaaan&repo=sushichan.live)](https://github.com/sushi-chaaaan/sushichan.live)
+[![Readme Card](https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=sushi-chaaaan&repo=ductile-ui)](https://github.com/sushi-chaaaan/ductile-ui)
+
+and...
+
+[ℹ️第73回調布祭Webサイト](https://73rd.chofusai.jp)
+- [📝Blog Post](https://www.sushichan.live/blog/post/tech/chofusai-2023-website/)
