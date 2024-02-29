@@ -23,6 +23,7 @@ I'm Kentaro Suzuki! Colledge student at UEC, Web Developer.
 
 ## 💻 Works
 
+<a href="https://github.com/sushi-chaaaan/tiny-yosegaki-prototype" target="_blank">
 <picture>
 <source
   srcset="https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=sushi-chaaaan&repo=tiny-yosegaki-prototype&theme=dark"
@@ -34,7 +35,9 @@ I'm Kentaro Suzuki! Colledge student at UEC, Web Developer.
 />
 <img src="https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=sushi-chaaaan&repo=tiny-yosegaki-prototype" />
 </picture>
+</a>
 
+<a href="https://github.com/sushi-chaaaan/sushichann.live" target="_blank">
 <picture>
 <source
   srcset="https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=sushi-chaaaan&repo=sushichan.live&theme=dark"
@@ -46,7 +49,9 @@ I'm Kentaro Suzuki! Colledge student at UEC, Web Developer.
 />
 <img src="https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=sushi-chaaaan&repo=sushichan.live" />
 </picture>
+</a>
 
+<a href="https://github.com/sushi-chaaaan/ductile-ui" target="_blank">
 <picture>
 <source
   srcset="https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=sushi-chaaaan&repo=ductile-ui&theme=dark"
@@ -58,6 +63,7 @@ I'm Kentaro Suzuki! Colledge student at UEC, Web Developer.
 />
 <img src="https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=sushi-chaaaan&repo=ductile-ui" />
 </picture>
+</a>
 
 and...
 
