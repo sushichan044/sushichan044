@@ -25,6 +25,18 @@ I'm Kentaro Suzuki! Colledge student at UEC, Web Developer.
 
 <picture>
 <source
+  srcset="https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=sushi-chaaaan&repo=tiny-yosegaki-prototype&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=sushi-chaaaan&repo=tiny-yosegaki-prototype"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=sushi-chaaaan&repo=tiny-yosegaki-prototype" />
+</picture>
+
+<picture>
+<source
   srcset="https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=sushi-chaaaan&repo=sushichan.live&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
