@@ -1,5 +1,5 @@
 ## 🍣 sushi-chan / Kentaro Suzuki
-[![Twitter Badge](https://img.shields.io/badge/twitter-%40sushi__chan__sub-blue?style=for-the-badge&logo=twitter)](https://x.com/sushi_chan_sub)
+[![Twitter Badge](https://img.shields.io/badge/twitter-%40sushi__chan__dev-blue?style=for-the-badge&logo=twitter)](https://x.com/sushi_chan_dev)
 
 I'm Kentaro Suzuki! Colledge student at UEC, Web Developer.
 
