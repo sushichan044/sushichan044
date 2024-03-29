@@ -65,6 +65,20 @@ I'm Kentaro Suzuki! Colledge student at UEC, Web Developer.
 </picture>
 </a>
 
+<a href="https://github.com/VirtualLiveLab/Mikubot" target="_blank">
+<picture>
+<source
+  srcset="https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=VirtualLiveLab&repo=Mikubot&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=VirtualLiveLab&repo=Mikubot"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats-two-xi-45.vercel.app/api/pin/?username=VirtualLiveLab&repo=Mikubot" />
+</picture>
+</a>
+
 and...
 
 [ℹ️第73回調布祭Webサイト](https://73rd.chofusai.jp)
